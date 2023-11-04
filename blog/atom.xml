@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.sheepstar.xyz/blog</id>
+    <title>Sheepstar Docs Blog</title>
+    <updated>2023-11-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.sheepstar.xyz/blog"/>
+    <subtitle>Sheepstar Docs Blog</subtitle>
+    <icon>https://docs.sheepstar.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://docs.sheepstar.xyz/blog/first-blog-post</id>
+        <link href="https://docs.sheepstar.xyz/blog/first-blog-post"/>
+        <updated>2023-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog is still under construction. We will add more content soon.]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Work in Progress</div><div class="admonitionContent_BuS1"><p>This blog is still under construction. We will add more content soon.</p></div></div>
+<p>This is our first blog post. We want to use this blog to share our new ideas and projects with you. We hope you enjoy it!</p>]]></content>
+        <author>
+            <name>Mathias Wagner</name>
+            <uri>https://gnmyt.dev/</uri>
+        </author>
+        <author>
+            <name>Leon Fleß</name>
+            <uri>https://fless.me/</uri>
+        </author>
+        <category label="new" term="new"/>
+    </entry>
+</feed>
